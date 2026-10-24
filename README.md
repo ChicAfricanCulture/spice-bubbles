@@ -1,30 +1,26 @@
 # Spice Interference
 
-A cognitive game that builds scent memory through words alone. Black and white evolves into color chaos across 6 levels.
+A quick word game about African spices. Spice names float across the screen. Tap only the one you're asked for, and each correct tap shows a short note on how that spice smells.
 
-## How it works
+**▶ Play it here: [https://chicafricanculture.github.io/spice-bubbles/](https://chicafricanculture.github.io/spice-bubbles/)**
 
-Each level asks you to find a specific African spice among floating words. Pop the correct ones before time runs out. Each correct pop reveals a scent description — over time, your brain builds a composite smell memory through repetition alone.
+A free game from [The African Gourmet](https://www.theafricangourmet.com/), made to help people learn about African food through play.
 
-## The progression
+## How to play
 
-- **Level 1:** Black & white — find BERBERE
-- **Level 2:** Black & white — find HARISSA  
-- **Level 3:** Color appears, but it's noise — find MITMITA (word only)
-- **Level 4:** Color matters — find BERBERE in its correct red
-- **Level 5:** Faster + colors shift mid-round — find HARISSA
-- **Level 6:** Maximum speed, colors shift, target changes without warning — find MITMITA
+- Each level tells you which spice to find, such as berbere, harissa or mitmita.
+- Tap that word before time runs out and ignore the others, like ginger, turmeric, uda, piri piri, Maggi and cubeb.
+- There are six levels. They start in black and white, then add colour, more speed and colours that change mid-round.
 
-## Why smell without smell?
+## More from The African Gourmet
 
-Smell is the only sense that bypasses the thalamus and goes straight to memory and emotion. By pairing repeated visual cues with varied scent descriptions, the brain starts to build an olfactory memory without any actual odor.
+- [More African food stories at The African Gourmet](https://www.theafricangourmet.com/)
+- [More games to play and learn](https://www.theafricangourmet.com/p/play-learn-african-food-games.html)
 
-## Play it
+## Licence
 
-Just open the HTML file in any browser. No installation needed.
+Licensed under CC BY 4.0.
 
-   <div class="footer">
-        <p>Maintained by <a href="https://www.theafricangourmet.com" style="color: #8B4513;">The African Gourmet</a> · Licensed under CC BY 4.0</p>
-        <p>Part of [SankofaKitchen](https://github.com/ChicAfricanCulture) — African foodways retrieved through play  
-[Visit my GitHub profile](https://github.com/ChicAfricanCulture) for more projects</p>
-    </div>
+---
+
+Maintained by [The African Gourmet](https://www.theafricangourmet.com/).
